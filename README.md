@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jaredDlewis. I'm a software engineer located in the Denver/Boulder, CO area. I grew up in West Texas, and I worked as a mechanical engineer in New Orleans, LA from June 2018 to June 2021. 
-- 👀 I’m interested in finance, physics, calculus, reading, the fine arts, cycling, running and contributing to my community.
-- 🌱 I’m currently an Engineering Instructor at Codesmith.
-- 💞️ I’m looking to collaborate on anything related to finance, education, business systems, or games.
+- 👋 Hi, I’m @jaredDlewis. I'm a software engineer located in the Denver/Boulder, CO area.
+- 👀 I’m interested in finance, physics, mathematics, reading, the fine arts, skiing, cycling, running and contributing to my community.
+- 🌱 I've worked as a Software Engineer at Codesmith since Oct 2021, and I'm currently a member of their DSML Research Group.
+- 💞️ I'm looking to collaborate on anything related to finance, education, business systems, social progress, or games.
 - 📫 How to reach me: jareddlewis@gmail.com
 
 <!---
