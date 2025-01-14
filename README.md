@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jaredDlewis
-- 🌱 Educator, manager, and software engineer passionate about optimizing human processes and technical processes.
-- 📫 How to reach me: jareddlewis@gmail.com
+👋 Hi, I’m @jaredDlewis
+🌱 Educator, manager, and software engineer passionate about optimizing human processes and technical processes.
+📫 How to reach me: jareddlewis@gmail.com
 
 <!---
 jaredDlewis/jaredDlewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
