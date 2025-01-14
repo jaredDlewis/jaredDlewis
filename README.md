@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jaredDlewis. I'm a software engineer located in the Denver/Boulder, CO area.
-- 👀 I’m interested in reading, the fine arts, backpacking, skiing, cycling, running and contributing to my community.
-- 🌱 I've worked as a Software Engineer at Codesmith since 2021, and I developed curriculum for their DSML Research Group.
+- 👋 Hi, I’m @jaredDlewis
+- 🌱 Educator, manager, and software engineer passionate about optimizing human processes and technical processes.
 - 📫 How to reach me: jareddlewis@gmail.com
 
 <!---
