@@ -1,5 +1,7 @@
 👋 Hi, I’m @jaredDlewis
+
 🌱 Educator, manager, and software engineer passionate about optimizing human processes and technical processes.
+
 📫 How to reach me: jareddlewis@gmail.com
 
 <!---
