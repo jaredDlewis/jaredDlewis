@@ -1,8 +1,18 @@
-👋 Hi, I’m @jaredDlewis
+### 👋 Hi, I’m @jaredDlewis
 
-🌱 Educator, manager, and software engineer passionate about optimizing human processes and technical processes.
+🌱
 
-📫 How to reach me: jareddlewis@gmail.com
+Right now, I am a software engineer at CoBank.
+
+Before that, I was a software engineer, manager, and instructor at Codesmith.
+
+Before that, I was a mechanical engineer at Valero Energy.
+
+🌱
+
+📫 **How to reach me:** jareddlewis@gmail.com
+
+Try entering **⌘K** on my website: [jareddlewis.com](https://www.jareddlewis.com/)
 
 <!---
 jaredDlewis/jaredDlewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
