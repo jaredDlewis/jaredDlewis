@@ -12,7 +12,7 @@ Before that, I was a mechanical engineer at Valero Energy.
 
 📫 **How to reach me:** jareddlewis@gmail.com
 
-Try entering **⌘K** on my website: [jareddlewis.com](https://www.jareddlewis.com/)
+Hover in the bottom right corner of my website: [jareddlewis.com](https://www.jareddlewis.com/)
 
 <!---
 jaredDlewis/jaredDlewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
