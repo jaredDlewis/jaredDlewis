@@ -16,7 +16,7 @@ Before that, I was a mechanical engineer at Valero Energy.
 
 Hover in the bottom right corner of my website: [jareddlewis.com](https://www.jareddlewis.com/)
 
-You can also press [⌘K]
+You can also press [⌘K] while you're there.
 
 <!---
 jaredDlewis/jaredDlewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
